@@ -1,2 +1,4 @@
-VGA8x16.cpp libraries/DisplayCore/VGA8x16
-VGA8x16.h libraries/DisplayCore/VGA8x16
+library.json libraries/DisplayCore/VGA8x16
+library.properties libraries/DisplayCore/VGA8x16
+README.md libraries/DisplayCore/VGA8x16
+src libraries/DisplayCore/VGA8x16
